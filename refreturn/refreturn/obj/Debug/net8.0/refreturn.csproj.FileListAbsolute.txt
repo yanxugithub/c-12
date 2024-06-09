@@ -1,0 +1,14 @@
+D:\GitHubRepositories\csharp12\refreturn\refreturn\bin\Debug\net8.0\refreturn.exe
+D:\GitHubRepositories\csharp12\refreturn\refreturn\bin\Debug\net8.0\refreturn.deps.json
+D:\GitHubRepositories\csharp12\refreturn\refreturn\bin\Debug\net8.0\refreturn.runtimeconfig.json
+D:\GitHubRepositories\csharp12\refreturn\refreturn\bin\Debug\net8.0\refreturn.dll
+D:\GitHubRepositories\csharp12\refreturn\refreturn\bin\Debug\net8.0\refreturn.pdb
+D:\GitHubRepositories\csharp12\refreturn\refreturn\obj\Debug\net8.0\refreturn.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubRepositories\csharp12\refreturn\refreturn\obj\Debug\net8.0\refreturn.AssemblyInfoInputs.cache
+D:\GitHubRepositories\csharp12\refreturn\refreturn\obj\Debug\net8.0\refreturn.AssemblyInfo.cs
+D:\GitHubRepositories\csharp12\refreturn\refreturn\obj\Debug\net8.0\refreturn.csproj.CoreCompileInputs.cache
+D:\GitHubRepositories\csharp12\refreturn\refreturn\obj\Debug\net8.0\refreturn.dll
+D:\GitHubRepositories\csharp12\refreturn\refreturn\obj\Debug\net8.0\refint\refreturn.dll
+D:\GitHubRepositories\csharp12\refreturn\refreturn\obj\Debug\net8.0\refreturn.pdb
+D:\GitHubRepositories\csharp12\refreturn\refreturn\obj\Debug\net8.0\refreturn.genruntimeconfig.cache
+D:\GitHubRepositories\csharp12\refreturn\refreturn\obj\Debug\net8.0\ref\refreturn.dll
